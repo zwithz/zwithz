@@ -7,7 +7,7 @@ I'm Zack, a master student at [Zhejiang University](http://www.zju.edu.cn/englis
 - 〽️ Always in the way to try new-born products
 - 🔖 To-do List
   - ✅ ~~Accelerated C++~~
-  - ✅~~A Practical Introduction to Computer Vision with OpenCV~~
+  - ✅ ~~A Practical Introduction to Computer Vision with OpenCV~~
   - [Introduction to Linear Algebra (5th edition 2016)](https://math.mit.edu/~gs/linearalgebra/)
   - [Learning OpenCV3](https://www.oreilly.com/library/view/learning-opencv-3/9781491937983/)
 - 💬 Links
