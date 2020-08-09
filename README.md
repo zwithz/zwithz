@@ -7,8 +7,9 @@ I'm Zack, a master student at [Zhejiang University](http://www.zju.edu.cn/englis
 - 〽️ Always in the way to try new-born products
 - 🔖 To-do List
   - ✅ ~~Accelerated C++~~
-  - [CSS: The Definite Guide 4th Editoin](https://www.amazon.com/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195/ref=sr_1_1?crid=VP678QZGCEBV&dchild=1&keywords=css+the+definitive+guide+4th+edition&qid=1593852536&s=books&sprefix=CSS+the+de%2Cstripbooks-intl-ship%2C1118&sr=1-1)
-  - [A Practical Introduction to Computer Vision with OpenCV](https://www.amazon.com/Practical-Introduction-Computer-Imaging-Technology-dp-1118848454/dp/1118848454/ref=mt_other?_encoding=UTF8&me=&qid=1593852404)
+  - ✅~~A Practical Introduction to Computer Vision with OpenCV~~
+  - [Introduction to Linear Algebra (5th edition 2016)](https://math.mit.edu/~gs/linearalgebra/)
+  - [Learning OpenCV3](https://www.oreilly.com/library/view/learning-opencv-3/9781491937983/)
 - 💬 Links
 
 <a href="https://twitter.com/zwithz1998"><img alt="Twitter" src="https://img.shields.io/badge/dynamic/json?label=Twitter&labelColor=282c34&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dzwithz1998&color=1da1f2&logo=twitter&longCache=true&style=for-the-badge"/></a>
