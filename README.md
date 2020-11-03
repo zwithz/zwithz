@@ -6,10 +6,11 @@ I'm Zack, a master student at [Zhejiang University](http://www.zju.edu.cn/englis
 - 🌀 Love cool gadgets
 - 〽️ Always in the way to try new-born products
 - 🔖 To-do List
-  - ✅ ~~Accelerated C++~~
-  - ✅ ~~A Practical Introduction to Computer Vision with OpenCV~~
-  - [Introduction to Linear Algebra (5th edition 2016)](https://math.mit.edu/~gs/linearalgebra/)
-  - [Learning OpenCV3](https://www.oreilly.com/library/view/learning-opencv-3/9781491937983/)
+  - ✅ ~~📒 Accelerated C++~~
+  - ✅ ~~📒 A Practical Introduction to Computer Vision with OpenCV~~
+  - ✅ ~~📒 Learning OpenCV3~~
+  - [Numerical Recipes](http://www.numerical.recipes/)
+  - [Dive into Deep Learning](https://d2l.ai/index.html)
 - 💬 Links
 
 <a href="https://twitter.com/zwithz1998"><img alt="Twitter" src="https://img.shields.io/badge/dynamic/json?label=Twitter&labelColor=282c34&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dzwithz1998&color=1da1f2&logo=twitter&longCache=true&style=for-the-badge"/></a>
